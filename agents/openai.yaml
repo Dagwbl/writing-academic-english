@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic English Writing"
+  short_description: "Polish academic English with paragraph-to-essay logic"
+  default_prompt: "Use $academic-english-writing to revise this draft using Oshima-Hogue style paragraph unity, coherence, thesis control, source discipline, and formal academic English."
